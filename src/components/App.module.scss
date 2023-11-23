@@ -1,0 +1,12 @@
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  padding: 15px 32px;
+
+  span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+}
